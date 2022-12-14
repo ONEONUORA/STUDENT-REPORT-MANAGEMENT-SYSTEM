@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671045853 source:c:\users\lenovo\onedrive\desktop\student report management system\student report management system\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
